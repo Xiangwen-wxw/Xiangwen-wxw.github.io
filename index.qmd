@@ -1,5 +1,5 @@
 ---
-title: "`Xiangwen Wang's Website"
+title: "Xiangwen Wang's Website"
 ---
 
 This is a Quarto website.
