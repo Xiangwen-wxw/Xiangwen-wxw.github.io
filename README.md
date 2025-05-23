@@ -1,7 +1,7 @@
 # Xiangwen-wxw.github.io
 Xiangwen Wang AD688
 
- AD688 Web Analytics Lab Repository
+AD688 Web Analytics Lab Repository
 
 5/22/25
 
