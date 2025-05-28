@@ -2,6 +2,6 @@
 title: "Xiangwen Wang's Website"
 ---
 
-This is a Quarto website.
+Let me introduce myself—I’m Xiangwen Wang, a thoughtful, analytical thinker with a strong foundation in data science, business analytics, and strategic decision-making. I’m currently pursuing graduate studies, where I’ve worked on projects involving machine learning classification, forecasting, simulation modeling, and HR analytics. I enjoy transforming complex data into meaningful, actionable insights and presenting them in a clear and structured way to support better decision-making.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Beyond academics, I’m someone who brings curiosity and care into every environment I step into—whether it’s a classroom, a team project, or a new city halfway across the world. I’m organized and detail-oriented, yet flexible and open-minded when plans shift. I value both independence and collaboration, and I love connecting with people and learning from different perspectives. Whether I’m navigating a dataset or a new place, I’m always seeking insight, growth, and meaningful experiences.
