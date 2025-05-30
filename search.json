@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Xiangwen Wang’s Website",
     "section": "",
-    "text": "Let me introduce myself—I’m Xiangwen Wang, a thoughtful, analytical thinker with a strong foundation in data science, business analytics, and strategic decision-making. I’m currently pursuing graduate studies, where I’ve worked on projects involving machine learning classification, forecasting, simulation modeling, and HR analytics. I enjoy transforming complex data into meaningful, actionable insights and presenting them in a clear and structured way to support better decision-making.\nBeyond academics, I’m someone who brings curiosity and care into every environment I step into—whether it’s a classroom, a team project, or a new city halfway across the world. I’m organized and detail-oriented, yet flexible and open-minded when plans shift. I value both independence and collaboration, and I love connecting with people and learning from different perspectives. Whether I’m navigating a dataset or a new place, I’m always seeking insight, growth, and meaningful experiences."
+    "text": "Let me introduce myself—I’m Xiangwen Wang, a thoughtful, analytical thinker with a strong foundation in data science, business analytics, and strategic decision-making. I’m currently pursuing graduate studies, where I’ve worked on projects involving machine learning classification, forecasting, simulation modeling, and HR analytics. I enjoy transforming complex data into meaningful, actionable insights and presenting them in a clear and structured way to support better decision-making.\nBeyond academics, I’m someone who brings curiosity and care into every environment I step into—whether it’s a classroom, a team project, or a new city halfway across the world. I’m organized and detail-oriented, yet flexible and open-minded when plans shift. I value both independence and collaboration, and I love connecting with people and learning from different perspectives. Whether I’m navigating a dataset or a new place, I’m always seeking insight, growth, and meaningful experiences.\n\nx=1 \ny=2\nz=x+y\nprint(\"the sum of\", x, \"and\", y, \"is\", z)\n\nthe sum of 1 and 2 is 3"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Xiangwen Wang's Website",
+    "section": "",
+    "text": "x=1\ny=2\nz=x+y\nprint(\"the sum of\", x, \"and\", y, \"is\", z)\n\nthe sum of 1 and 2 is 3"
   }
 ]
